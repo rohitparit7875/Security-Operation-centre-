@@ -1,0 +1,159 @@
+SOC (Security Operations Center) – Complete Overview
+
+What is a SOC?
+
+A Security Operations Center (SOC) is a centralized team that monitors, detects, investigates, and responds to cybersecurity threats 24×7 to protect an organization’s IT infrastructure, networks, servers, applications, and data.
+
+
+---
+
+Key Objectives of a SOC
+
+🔍 Continuous Monitoring – Track logs, alerts, and events in real time
+
+🚨 Threat Detection – Identify malware, phishing, intrusions, and anomalies
+
+🛠️ Incident Response – Contain, eradicate, and recover from attacks
+
+📊 Compliance & Reporting – Support audits and security standards
+
+🔁 Continuous Improvement – Tune rules, reduce false positives
+
+
+
+---
+
+SOC Team Roles (Hierarchy)
+
+Role	Responsibility
+
+SOC L1 Analyst	Monitor alerts, initial triage, escalate
+SOC L2 Analyst	Deep investigation, correlation, containment
+SOC L3 Analyst	Advanced threats, malware analysis, IR
+SOC Manager	Operations, KPIs, compliance
+Threat Hunter	Proactive threat discovery
+IR / DFIR	Incident response & forensics
+
+
+
+---
+
+Tools Used in SOC
+
+SIEM: Splunk, QRadar, ArcSight, Sentinel
+
+EDR/XDR: CrowdStrike, Defender, SentinelOne
+
+SOAR: Palo Alto XSOAR, Splunk SOAR
+
+Network Security: Firewalls, IDS/IPS
+
+Threat Intel: VirusTotal, AbuseIPDB, MISP
+
+Ticketing: ServiceNow, JIRA
+
+
+
+---
+
+Daily Activities in SOC
+
+Alert monitoring & triage
+
+Log analysis (Windows, Linux, Firewall, AD)
+
+Incident investigation
+
+Phishing email analysis
+
+Escalation & documentation
+
+Shift handover reports
+
+
+
+---
+
+Skills Required for SOC
+
+Technical
+
+Networking (TCP/IP, DNS, HTTP, Ports)
+
+Windows & Linux basics (logs, processes)
+
+Cybersecurity fundamentals
+
+Log analysis & SIEM queries
+
+MITRE ATT&CK framework
+
+
+Soft Skills
+
+Attention to detail
+
+Documentation & communication
+
+Working in shifts (24×7)
+
+
+
+---
+
+Certifications for SOC
+
+Beginner:
+
+CompTIA Security+
+
+Google Cybersecurity Certificate
+
+
+Intermediate:
+
+CEH
+
+Blue Team Level 1 (BTL1)
+
+
+Advanced:
+
+GCIA / GCIH
+
+CISSP (later stage)
+
+
+
+
+---
+
+Career Growth Path
+
+SOC L1 → SOC L2 → SOC L3 → Threat Hunter / DFIR → SOC Manager / Architect
+
+
+---
+
+Why SOC is a Good Career (India)
+
+High demand in banking, IT, and MNCs
+
+Entry possible from Technical Operations / L1 Support background
+
+Strong growth & global opportunities
+
+
+
+---
+
+If you want, I can:
+
+Map your current Technical Operations Engineer role → SOC path
+
+Give SOC interview questions (MCQs or scenario-based)
+
+Share a 90-day learning roadmap for SOC L1
+
+
+Just tell me 👍
