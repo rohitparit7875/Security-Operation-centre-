@@ -1,0 +1,176 @@
+Step 1: Map Your Existing Skills (Very Important)
+
+Operations Engineer skills → SOC relevance
+
+Your Ops Skill	How it Helps in SOC
+
+Linux / Windows server monitoring	Log analysis & alert investigation
+Networking (IP, ports, DNS)	Detect attacks, suspicious traffic
+Incident handling / tickets	SOC incident response process
+Firewalls / servers	Security alerts & access control
+Shift-based work	SOC works 24×7
+
+
+👉 Good news: You don’t start from zero.
+
+
+---
+
+Step 2: Learn SOC Fundamentals (Must-Have)
+
+Focus on Blue Team basics:
+
+🔹 Security Basics
+
+CIA Triad (Confidentiality, Integrity, Availability)
+
+Types of attacks: phishing, malware, brute force, DDoS
+
+MITRE ATT&CK framework
+
+
+🔹 SOC Tools (Hands-on)
+
+SIEM: Splunk / Microsoft Sentinel
+
+EDR: Defender / CrowdStrike (conceptual)
+
+SOAR (basic understanding)
+
+
+
+---
+
+Step 3: Log Analysis Skills (Very Important)
+
+Learn to analyze:
+
+Windows Logs: Security, System, Event ID (4624, 4625)
+
+Linux Logs: /var/log/auth.log, /var/log/syslog
+
+Firewall logs: allow/deny, source/destination IP
+
+
+👉 Practice with:
+
+Splunk free
+
+Microsoft Sentinel labs
+
+TryHackMe (SOC paths)
+
+
+
+---
+
+Step 4: Hands-On Practice (This Gets You Hired)
+
+Best Platforms
+
+TryHackMe → SOC Level 1 path
+
+Blue Team Labs Online
+
+LetsDefend (SOC simulation)
+
+
+💡 Employers value hands-on labs more than theory.
+
+
+---
+
+Step 5: Certifications (Choose Smartly)
+
+Best for your transition:
+
+1. ✅ CompTIA Security+ (foundation)
+
+
+2. ✅ Blue Team Level 1 (BTL1) – highly respected
+
+
+3. CEH (optional, not mandatory)
+
+
+
+If budget is low → focus on labs + Security+.
+
+
+---
+
+Step 6: Modify Your Resume (Critical)
+
+Change your resume language from Operations → Security.
+
+Example:
+
+❌ Monitored servers and resolved incidents
+✅ Monitored system logs, investigated anomalies, escalated security incidents
+
+Add:
+
+Log monitoring
+
+Incident triage
+
+Firewall analysis
+
+SIEM exposure (even labs count)
+
+
+
+---
+
+Step 7: Apply for the Right Roles
+
+Apply for:
+
+SOC Analyst L1
+
+Security Operations Analyst
+
+Cyber Security Analyst (Blue Team)
+
+Managed Security Services (MSSP)
+
+
+Target companies:
+
+MSSPs, banks, MNC SOCs
+
+
+
+---
+
+Step 8: 90-Day Transition Plan
+
+Month 1
+
+Security basics + Networking revision
+
+Windows/Linux logs
+
+TryHackMe SOC basics
+
+
+Month 2
+
+SIEM (Splunk / Sentinel)
+
+Incident analysis
+
+MITRE ATT&CK
+
+
+Month 3
+
+Real SOC labs
+
+Resume + interview prep
+
+Apply for SOC L1 roles
+
+
+
+---
