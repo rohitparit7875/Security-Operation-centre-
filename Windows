@@ -1,0 +1,6 @@
+ipconfig /all           # Network info
+netstat -ano            # Active connections + PID
+tasklist                # Running processes
+taskkill /PID 1234 /F  # Kill malicious process
+whoami                  # Current user
+systeminfo              # OS details
