@@ -1,0 +1,7 @@
+cat /var/log/auth.log
+grep "Failed password" /var/log/auth.log
+grep "Accepted password" /var/log/auth.log
+last                     # Login history
+lastlog                  # User login info
+who                      # Logged-in users
+w                        # Active sessions
