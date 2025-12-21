@@ -1,0 +1,10 @@
+ls -lah                 # List files with details
+pwd                     # Current directory
+cd /var/log             # Go to logs directory
+cat logfile.log         # View log
+less logfile.log        # Scroll log safely
+tail -n 100 logfile.log # Last 100 lines
+tail -f logfile.log    # Live log monitoring
+grep "error" file.log  # Search keyword
+grep -i "failed" auth.log
+grep -r "password" /var/log/
