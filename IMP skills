@@ -1,0 +1,20 @@
+3️⃣ Skills you must add (priority order)
+🟢 Step 1: Networking + OS (security view)
+TCP/IP, DNS, HTTP/HTTPS
+Linux commands (logs, permissions)
+Windows Event Logs
+🟢 Step 2: Cyber Security fundamentals
+CIA Triad
+Types of attacks (phishing, ransomware, DDoS)
+Malware basics
+Firewalls, IDS/IPS
+🟢 Step 3: SIEM tools (VERY IMPORTANT)
+Learn any one:
+Splunk
+IBM QRadar
+Elastic (ELK)
+Focus on:
+Log ingestion
+Alerts
+Correlation
+Dashboards
