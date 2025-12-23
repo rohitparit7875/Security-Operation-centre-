@@ -1,0 +1,16 @@
+2. SIEM (Heart of SOC)
+SIEM = Security Information & Event Management
+What it does
+Collects logs (firewalls, servers, AD, apps)
+Correlates events
+Generates alerts
+Common SIEMs
+Splunk
+QRadar
+ArcSight
+Sentinel
+Theory keywords
+Log ingestion
+Correlation rules
+False positives
+Use cases
