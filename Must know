@@ -1,0 +1,11 @@
+🔐 SOC THEORY (Must-Know Concepts)
+1. SOC Roles & Levels
+L1 Analyst (Monitoring & Triage)
+Alerts, basic analysis, escalation
+L2 Analyst (Investigation)
+Deep log analysis, root cause
+L3 Analyst (Threat Hunter / IR)
+Advanced attacks, malware, forensics
+SOC Manager
+Strategy, KPIs, incident handling
+2. SIEM (Heart of
