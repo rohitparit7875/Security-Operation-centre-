@@ -1,0 +1,14 @@
+🔐 3. SOC Monitoring for Payment Infrastructure
+Domain: SOC Analyst 🔥
+What you build
+Generate fake logs (login, payment, API)
+Detect:
+Brute force attempts
+Failed transactions
+Suspicious IPs
+Tech Stack
+Linux
+ELK Stack (Elasticsearch, Logstash, Kibana)
+SIEM concepts
+Interview Gold Line
+“Built a SOC-style monitoring system for a payment platform.”
