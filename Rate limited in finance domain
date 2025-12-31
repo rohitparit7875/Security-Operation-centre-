@@ -1,0 +1,15 @@
+2. Secure Payment API with Rate Limiting
+Domain: DevSecOps / Backend Security
+What you build
+REST API for payments
+JWT authentication
+Rate limiting (prevent abuse)
+Input validation
+Tech Stack
+Python Flask / FastAPI
+Nginx
+JWT
+OWASP Top 10 protection
+Security Concepts
+API abuse prevention
+Authentication & authorization
