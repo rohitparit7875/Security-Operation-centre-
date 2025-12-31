@@ -1,0 +1,14 @@
+🔐 1. Payment Fraud Detection System (Mini Version)
+Domain: Cybersecurity / SOC / Data
+What you build
+Simulate card transactions (CSV / JSON)
+Detect suspicious behavior:
+Multiple transactions in seconds
+Location mismatch
+Amount anomalies
+Tech Stack
+Python
+Pandas
+Basic ML (optional)
+Logs + alerts
+Why Mastercard likes it 👉 Fraud detection is core to Mastercard
