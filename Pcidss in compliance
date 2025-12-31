@@ -1,0 +1,12 @@
+🔐 4. PCI-DSS Compliance Checker (Mini Tool)
+Domain: Compliance / GRC
+What you build
+Script that checks:
+Firewall enabled
+Password policy
+Encryption at rest
+Open ports
+Tech Stack
+Bash / Python
+Linux hardening checks
+Why it fits Mastercard 👉 Mastercard follows PCI-DSS strictly
