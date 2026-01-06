@@ -1,0 +1,135 @@
+Core Cyber Security Responsibilities
+1️⃣ Threat Monitoring & Detection
+
+Monitor systems, servers, and networks for suspicious activity
+
+Analyze security alerts and logs
+
+Identify malware, phishing, brute-force, and insider threats
+
+2️⃣ Incident Response & Handling
+
+Investigate security incidents
+
+Contain and eradicate threats
+
+Perform root-cause analysis
+
+Prepare incident reports and lessons learned
+
+3️⃣ Vulnerability Management
+
+Scan systems for vulnerabilities
+
+Prioritize risks based on severity
+
+Coordinate patching and remediation
+
+Track vulnerability lifecycle
+
+4️⃣ Security Hardening
+
+Harden OS, servers, databases, and applications
+
+Disable unused services and ports
+
+Enforce strong authentication and access control
+
+Apply secure configurations
+
+5️⃣ Network & Endpoint Security
+
+Manage firewalls, IDS/IPS, VPNs
+
+Secure endpoints (AV, EDR, policies)
+
+Monitor network traffic for anomalies
+
+6️⃣ Identity & Access Management (IAM)
+
+Control user access and permissions
+
+Implement least privilege principle
+
+Manage MFA, password policies
+
+Handle joiner–mover–leaver processes
+
+7️⃣ Security Compliance & Policies
+
+Implement and follow security policies
+
+Support audits and compliance checks
+
+Ensure alignment with security standards
+
+Maintain documentation and SOPs
+
+8️⃣ Application & Web Security
+
+Identify OWASP Top vulnerabilities
+
+Perform basic security testing
+
+Review application security configurations
+
+Secure APIs and web services
+
+9️⃣ Log Management & SIEM
+
+Collect and analyze logs from multiple sources
+
+Create alerts and dashboards
+
+Investigate correlated security events
+
+🔟 Security Awareness & Training
+
+Educate employees on cyber risks
+
+Conduct phishing simulations
+
+Promote security best practices
+
+🧑‍💻 Role-Based Responsibility Snapshot
+🔹 SOC Analyst (L1/L2)
+
+Alert monitoring
+
+Incident triage
+
+Log analysis
+
+🔹 Security Engineer
+
+Tool configuration
+
+System hardening
+
+Automation
+
+🔹 Vulnerability Analyst
+
+Scanning & patch coordination
+
+Risk assessment
+
+🔹 Incident Responder
+
+Forensics
+
+Malware analysis
+
+Breach containment
+
+🔹 Governance / GRC
+
+Policy creation
+
+Risk assessments
+
+Compliance audits
+
+📝 In One Line (Interview-Ready)
+
+Cyber Security professionals protect systems, networks, and data by preventing, detecting, responding to, and recovering from cyber threats while ensuring compliance and risk management.
