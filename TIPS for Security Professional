@@ -1,0 +1,95 @@
+MOST IMPORTANT TIPS (Read First)
+✅ 1️⃣ Strong Fundamentals Beat Tools
+
+Learn Networking (TCP/IP, DNS, HTTP, ports)
+
+Understand Linux & Windows internals
+
+Know how attacks work, not just tool buttons
+
+👉 Interview truth: Tools change, fundamentals don’t.
+
+✅ 2️⃣ Think Like an Attacker, Act Like a Defender
+
+Learn common attack paths (phishing → malware → lateral movement)
+
+Map incidents to MITRE ATT&CK
+
+Ask: How did this happen? What’s next?
+
+✅ 3️⃣ Log Analysis is KING 👑
+
+Practice reading real logs (firewall, auth, web, syslog)
+
+Understand timestamps, IPs, user agents, event IDs
+
+Correlate events across systems
+
+👉 SOC without log skills = blind SOC
+
+✅ 4️⃣ Don’t Memorize Alerts — Understand Them
+
+Don’t say: “High severity alert”
+
+Say: “Multiple failed logins followed by a successful login from a new geo → possible brute force”
+
+✅ 5️⃣ Always Follow a Process
+
+Learn & follow:
+
+Incident lifecycle: Detect → Analyze → Contain → Eradicate → Recover → Lessons Learned
+
+Escalation matrix & SLAs
+
+Interviewers LOVE process-oriented answers.
+
+🛠️ PRACTICAL CAREER TIPS
+✅ 6️⃣ Build Hands-on Labs (Mandatory)
+
+Practice on home lab / VMs
+
+Try phishing analysis, brute-force logs, malware hash checks
+
+Document what you did (GitHub or notes)
+
+✅ 7️⃣ Write Everything You Do
+
+Good documentation = good analyst
+
+Incident notes must answer:
+
+What happened?
+
+When?
+
+Impact?
+
+Action taken?
+
+✅ 8️⃣ Learn at Least ONE SIEM Well
+
+Any SIEM is fine
+
+Focus on:
+
+Log ingestion
+
+Correlation rules
+
+Alert tuning
+
+Dashboards
+
+✅ 9️⃣ Learn Linux First, Then Windows
+
+Linux logs are everywhere in SOC
+
+Commands like grep, awk, journalctl, ss, netstat are daily-use
+
+✅ 🔟 Don’t Ignore Soft Skills
+
+Clear communication during incidents
+
+Write simple, non-technical summaries for management
+
+Stay calm during high-severity incidents
