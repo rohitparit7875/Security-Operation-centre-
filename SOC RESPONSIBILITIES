@@ -1,0 +1,80 @@
+🔍 SOC Analyst Responsibilities (Security Operations Center)
+1️⃣ Security Alert Monitoring
+
+Monitor SIEM dashboards 24×7
+
+Analyze alerts from firewalls, IDS/IPS, EDR, antivirus
+
+Identify false positives vs real threats
+
+2️⃣ Incident Triage & Analysis
+
+Classify incidents (Low / Medium / High / Critical)
+
+Perform initial investigation of alerts
+
+Identify attack vectors and affected systems
+
+3️⃣ Log Analysis
+
+Analyze logs from servers, endpoints, network devices
+
+Correlate events across multiple sources
+
+Detect anomalies and suspicious patterns
+
+4️⃣ Incident Response (L1/L2)
+
+Contain threats (IP blocking, account disable, isolation)
+
+Follow incident response playbooks
+
+Escalate to L2/L3 teams when required
+
+5️⃣ Threat Intelligence Usage
+
+Use threat feeds (IPs, domains, hashes)
+
+Identify known malware and attack campaigns
+
+Map attacks to MITRE ATT&CK framework
+
+6️⃣ Ticketing & Documentation
+
+Create and update incident tickets
+
+Maintain investigation notes and timelines
+
+Ensure SLA and compliance adherence
+
+7️⃣ Security Tool Handling
+
+Work with SIEM, EDR, IDS/IPS, Firewall tools
+
+Tune alerts to reduce noise
+
+Validate security tool effectiveness
+
+8️⃣ Malware & Phishing Analysis (Basic)
+
+Analyze phishing emails and URLs
+
+Check file hashes using threat platforms
+
+Identify malicious attachments
+
+9️⃣ Continuous Monitoring & Reporting
+
+Track ongoing incidents
+
+Generate daily/weekly SOC reports
+
+Provide metrics to management
+
+🔟 Collaboration & Communication
+
+Coordinate with IT, Network, and IR teams
+
+Provide clear incident summaries
+
+Support audits and investigations
