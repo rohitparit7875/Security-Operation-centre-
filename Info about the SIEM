@@ -1,0 +1,27 @@
+4️⃣ SIEM (Very Important ❗)
+
+SIEM = Security Information and Event Management
+
+Collects logs from multiple sources
+
+Correlates events and generates alerts
+
+Common SIEM tasks:
+
+Log monitoring
+
+Alert triage
+
+Rule tuning
+
+Incident correlation
+
+Examples of logs:
+
+Authentication logs
+
+Firewall logs
+
+Web server logs
+
+Endpoint logs
