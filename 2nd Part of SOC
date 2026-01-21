@@ -1,0 +1,14 @@
+🔹 PART 2: Security Monitoring & Tools (SOC Core)
+4
+
+SIEM concept: log collection, correlation, alerting
+
+Tools: Splunk, QRadar, ArcSight (basics)
+
+EDR/XDR: endpoint monitoring & response
+
+IDS/IPS working (signature vs anomaly)
+
+Firewalls: stateful vs stateless
+
+Log analysis: Windows Event Logs, Syslog
